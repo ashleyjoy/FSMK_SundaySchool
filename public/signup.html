@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>signuppage</title>
+<meta charset="utf-8">
+
+<style>
+#ref
+{
+font-size:25px;
+}
+#title
+{
+	font-size:15px;padding-right:15px;
+}
+#logo
+{
+float:right;
+padding-top:-100px;
+}
+
+#border{
+background-color:green;height:10px;
+}
+</style>
+</head>
+<body>
+<h1>FSMK SCHOOL<h1><br>
+<img src="images1.jpeg" id="logo" width="150px" height="120px" >
+<div id="home">
+<p id="title">An initiative by FSMK</p>
+<a href="projecthome.html" id="ref">Home</a>
+</div>
+<div id="border"></div>
+<br>
+<h2>Sign-up</h2>
+<form method="post" action="/signup">
+Name<input type="text" name="name"><br>
+College<input type="text" name="college"><br>
+Email<input type="text" name="email"><br>
+Contact-number<input type="text" name="number"><br>
+Password<input type="password" name="pass"><br>
+Rewrite the password<input type="password" name="repass"><br>
+<input type="submit" value="submit">
+</form>
+</body>
+</html>

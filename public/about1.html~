@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>About page</title>
+<meta charset="utf-8">
+
+<style>
+
+#border{
+background-color:green;height:10px;
+}
+
+#logo
+{
+float:right;
+padding-top:-100px;
+}
+#line
+{
+float:right;
+}
+</style>
+
+</head>
+<body>
+<h1>FSMK SCHOOL</h1>
+<h3 id="title">An initiative by FSMK</h3>
+<a href="projecthome.html">Home</a>
+<a href="project.html">Next</a>
+<img src="images1.jpeg" id="logo" width="150px" height="120px">
+<div id="border"></div>
+<br>
+<p>It is quite cumborsome effor for conducting the session on regular basis as finding speakers itself require great effort so that
+to avoid repetivie session avoided. The thought for FSMK School begins here. Since summer camp focus mainly on web
+technologies we though why we can not have live project to manage FSMK School program and other ad hoc requests from
+different colleges and organizations.
+</p>
+<p>
+Main features of FSMK School project<br>
+1. Manage and publishing in house and out session<br>
+2. Manage other request for handling session in colleges or other institutes online<br>
+3. Collect the feedback on each session<br>
+</p>
+<h2>COME AND EXPLORE FREE SOFTWARE WITH US!!</h2>
+<img src="gp2.jpeg">
+<div="line">
+<p>Connecting the world through free software..Come and gain an experience of a lifetime..</p></div>
+
+
+
+
+</body>
+</html>
+

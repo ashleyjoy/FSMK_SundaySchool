@@ -1,0 +1,70 @@
+<!doctype html> 
+<html lang="en">
+<head>
+<title>requests</title>
+<meta charset="utf-8">
+<style>
+#border{
+background-color:green;height:10px;
+}
+#contacts
+{
+background-color:green;
+height:50px;
+font-size:25px;
+
+
+}
+#logo
+{
+float:right;
+padding-top:-100px;
+}
+#bottom{
+float:right;
+padding-top:-50px;
+
+}
+#title
+{
+	font-size:15px;padding-right:15px;
+}
+#move{
+float:right;
+}
+</style>
+</head>
+<body>
+
+<h1>FSMK SCHOOL</h1>                                                                 
+
+
+<img src="images1.jpeg" id="logo" width="150px" height="120px" >
+<div id="home">
+<p id="title">An initiative by FSMK</p>
+<a href="projecthome.html">Home</a>
+</div>
+<div id="border"></div>
+<br>
+<h2>Place your requests here..</h2><br>
+<img src="gp.jpeg" id="bottom" width="400px" height="500px">
+
+</body>
+<form method="POST" action="/request" id="sn">
+This is where you can reguest for sessions based on the topics of your choice!<br><br><br>
+Enter technology of interest <input type="text" name="tech"><br><br><br>
+Type of session <input type="radio" name="session" value="yes">FSMK School<input type="radio" name="session" value="yes">FSMK Workshop <br><br><br>
+Mode    <input type="radio" name="mode" value="hands-on">Hands-On<input type="radio" name="mode" value="theory-handson">Theory and Hands-On<input type="radio" name="mode" value="theory">Theory<br><br><br>
+Prefered Venue <input type="text" name="venue"><br><br><br>
+Comments <input type="text" name="comment"><br><br>
+<input type="submit" value="Done"><br><br>
+</form>
+<br><br><br><br><br>
+<div id="contacts">
+<marquee>Contact us at fsmk.org</marquee>
+
+</html>
+
+
+
+

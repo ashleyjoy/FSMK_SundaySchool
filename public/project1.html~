@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>home page</title>
+<meta charset="utf-8">
+<style>
+background-image:url("/home/sherly/desktop/images.jpeg")
+#title{
+	font-size:15px;padding-right:15px;
+	   }
+</style>
+</head>
+<body>
+<h1>FSMK SCHOOL</h1>
+<h3 id="title">An initiative by FSMK</h3>
+<hr>
+</body>
+</html>

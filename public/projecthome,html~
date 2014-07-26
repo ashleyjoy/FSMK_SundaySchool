@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>home page</title>
+<meta charset="utf-8">
+<style>
+#logo{
+margin-top:25px;
+}
+#text{
+font-size:25px;
+}
+#sign{
+float:right;
+}
+#top {
+background-color: green;height:300px;
+}
+#title{
+	font-size:15px;padding-right:15px;
+}
+</style>
+</head>
+<body>
+<h1>FSMK SCHOOL</h1>
+<h3 id="title">An initiative by FSMK</h3>
+<a href="about1.html"target="_blank">About</a>
+<a href="sessions.html"target="_blank">Sessions</a>
+<a href="project.html"target="_blank">Request</a>
+<div id="sign">
+<a href="signin.html">Sign-In</a>
+<a href="signup.html">Not a user?Sign-up now!</a>
+</div>
+<hr>
+<div id="top">
+<img src="/home/sherly/Desktop/images.jpeg" id="logo">
+<marquee id="text">FREEDOM..Freedom from Proprietory Software..Freedom to XPLORE..to CHANGE..to SHARE..FREE SOFTWARE IS THE FUTURE AND THE FUTURE IS OURS...</marquee>
+</div>
+<h2>About FSMK School portal</h2>
+<p>
+Mostly fsmk used to get requests from different colleges for conducting faculty development workshop and other day long
+workshops. The current practise is all through mail exchange and talking to the resources to check the availability. This is
+quite effortfull job. With this portal in place we have all requests managed centrally depending on availbility of speakers and
+other factors. Apart from this innumerable no of small sessions are happening across fsmk glugs probably on weekly basis
+part of glug meet. More over FSMK School happens every sunday at fsmk office.This is nowhere reported though the entire
+management is done in glug level.
+
+
+
+</body>
+</html>
+
+
+
